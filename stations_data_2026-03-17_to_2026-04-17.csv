@@ -1,0 +1,492 @@
+resolution,dataset,station_id,start_date,end_date,latitude,longitude,height,name,state,value
+daily,climate_summary,00044,1969-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.9336,8.237,44.0,Großenkneten,Niedersachsen,8.1
+daily,climate_summary,00073,1959-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.6183,13.062,374.0,Aldersbach-Kramersepp,Bayern,7.8375
+daily,climate_summary,00078,1961-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.4853,7.9125,64.0,Alfhausen,Niedersachsen,8.196875
+daily,climate_summary,00091,1978-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.7446,9.345,304.0,Alsfeld-Eifa,Hessen,7.115625
+daily,climate_summary,00096,2019-04-09 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.9437,12.8518,50.0,Neuruppin-Alt Ruppin,Brandenburg,6.85
+daily,climate_summary,00102,1998-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.8633,8.1275,0.0,Leuchtturm Alte Weser,Niedersachsen,7.6968749999999995
+daily,climate_summary,00125,1974-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.8342,10.8667,739.0,Altenstadt,Bayern,5.44375
+daily,climate_summary,00131,2004-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0881,12.9326,296.0,Geringswalde-Altgeringswalde,Sachsen,6.75625
+daily,climate_summary,00142,1955-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.406,11.3117,511.0,Altomünster-Maisbrunn,Bayern,6.9375
+daily,climate_summary,00150,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.7273,8.1164,215.0,Alzey,Rheinland-Pfalz,8.90625
+daily,climate_summary,00151,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.4691,11.8546,382.0,Amberg-Unterammersricht,Bayern,6.715625
+daily,climate_summary,00154,1994-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.0197,12.2925,516.0,Amerang-Pfaffing,Bayern,6.5375
+daily,climate_summary,00161,1980-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.4237,7.4202,75.0,Andernach,Rheinland-Pfalz,8.99375
+daily,climate_summary,00164,1908-05-17 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.0316,13.9908,54.0,Angermünde,Brandenburg,7.1125
+daily,climate_summary,00167,2004-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.8409,13.6854,11.0,Anklam,Mecklenburg-Vorpommern,6.625
+daily,climate_summary,00183,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.6791,13.4344,42.0,Arkona,Mecklenburg-Vorpommern,5.653125
+daily,climate_summary,00191,1986-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.9694,9.9114,217.0,Arnstein-Müdesheim,Bayern,7.6375
+daily,climate_summary,00198,1954-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.3744,11.292,164.0,Artern,Thüringen,7.675
+daily,climate_summary,00217,1941-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.8774,11.3643,670.0,Attenkam,Bayern,6.3375
+daily,climate_summary,00222,1977-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5908,12.7139,393.0,Aue,Sachsen,5.940625
+daily,climate_summary,00232,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.4253,10.9417,462.0,Augsburg,Bayern,6.65
+daily,climate_summary,00257,1949-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.727,8.2457,240.0,Baden-Baden-Geroldsau,Baden-Württemberg,8.340625
+daily,climate_summary,00259,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.8064,7.6387,275.0,Müllheim,Baden-Württemberg,8.615625
+daily,climate_summary,00282,1949-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.8743,10.9206,240.0,Bamberg,Bayern,7.321875
+daily,climate_summary,00294,1992-02-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.3199,9.43,110.0,Barsinghausen-Hohenbostel,Niedersachsen,8.615625
+daily,climate_summary,00298,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.3405,12.7108,3.0,Barth,Mecklenburg-Vorpommern,5.8375
+daily,climate_summary,00303,1993-09-06 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.0613,13.4997,55.0,Baruth,Brandenburg,6.58125
+daily,climate_summary,00314,1936-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.1604,14.5042,234.0,"Kubschütz, Kr. Bautzen",Sachsen,7.265625
+daily,climate_summary,00320,1879-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.9666,11.5198,350.0,Heinersreuth-Vollhof,Bayern,5.990625
+daily,climate_summary,00330,1937-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.5617,8.9673,455.0,Oberzent-Beerfelden,Hessen,7.7
+daily,climate_summary,00342,2010-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.317,8.1694,103.0,Belm,Niedersachsen,8.35625
+daily,climate_summary,00368,1973-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.8152,9.9248,69.0,Bergen,Niedersachsen,7.3375
+daily,climate_summary,00377,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.107,7.9967,210.0,"Bergzabern, Bad",Rheinland-Pfalz,9.628125
+daily,climate_summary,00379,1954-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.9075,11.2665,304.0,"Berka, Bad (Flugplatz)",Thüringen,6.09375
+daily,climate_summary,00390,1986-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.9837,8.3683,611.0,"Berleburg, Bad-Stünzel",Nordrhein-Westfalen,5.8375
+daily,climate_summary,00400,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.631,13.5021,60.0,Berlin-Buch,Berlin,7.509375
+daily,climate_summary,00403,1950-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.4537,13.3017,51.0,Berlin-Dahlem (FU),Berlin,7.64375
+daily,climate_summary,00420,1993-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.5447,13.5598,61.0,Berlin-Marzahn,Berlin,8.2375
+daily,climate_summary,00427,1957-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.3807,13.5306,46.0,Berlin Brandenburg,Brandenburg,7.434375
+daily,climate_summary,00433,1948-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.4676,13.402,48.0,Berlin-Tempelhof,Berlin,8.01875
+daily,climate_summary,00445,1898-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.8218,11.711,85.0,Bernburg/Saale (Nord),Sachsen-Anhalt,7.690625
+daily,climate_summary,00460,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.2641,6.6868,362.0,Berus,Saarland,8.578125
+daily,climate_summary,00535,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.0372,7.3079,417.0,Blankenrath,Rheinland-Pfalz,7.2875
+daily,climate_summary,00555,1940-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.5026,7.2289,110.0,Bochum,Nordrhein-Westfalen,9.58125
+daily,climate_summary,00591,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.3911,10.6878,45.0,Boizenburg,Mecklenburg-Vorpommern,7.696875
+daily,climate_summary,00596,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.0027,11.1908,15.0,Boltenhagen,Mecklenburg-Vorpommern,6.83125
+daily,climate_summary,00603,1986-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.7293,7.204,147.0,Königswinter-Heiderhof,Nordrhein-Westfalen,9.33125
+daily,climate_summary,00617,2004-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.873,6.8863,47.0,Borken in Westfalen,Nordrhein-Westfalen,8.878125
+daily,climate_summary,00656,1931-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7234,10.6021,607.0,Braunlage,Niedersachsen,5.253125
+daily,climate_summary,00662,1961-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.2915,10.4464,81.0,Braunschweig,Niedersachsen,8.06875
+daily,climate_summary,00691,1890-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.0451,8.7981,4.0,Bremen,Bremen,8.134375
+daily,climate_summary,00701,1949-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.5332,8.5761,7.0,Bremerhaven,Bremen,9.078947368421053
+daily,climate_summary,00704,1979-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.4451,9.139,11.0,Bremervörde,Niedersachsen,7.7749999999999995
+daily,climate_summary,00722,1896-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7986,10.6183,1135.0,Brocken,Sachsen-Anhalt,1.353125
+daily,climate_summary,00755,1935-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.5182,9.3213,340.0,"Buchen, Kr. Neckar-Odenwald",Baden-Württemberg,7.43125
+daily,climate_summary,00757,1990-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.9625,7.9983,445.0,Buchenbach,Baden-Württemberg,7.675
+daily,climate_summary,00760,1976-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.3629,9.9435,83.0,Rosengarten-Klecken,Niedersachsen,7.875
+daily,climate_summary,00766,1965-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.1745,7.0595,477.0,Büchel-Alflen,Rheinland-Pfalz,7.6125
+daily,climate_summary,00769,1972-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.2817,9.089,68.0,Bückeburg,Niedersachsen,8.171875
+daily,climate_summary,00817,1952-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0306,8.8146,296.0,Burgwald-Bottendorf,Hessen,6.978125
+daily,climate_summary,00840,1989-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.4313,12.6114,895.0,Carlsfeld,Sachsen,2.828125
+daily,climate_summary,00850,1974-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.5959,10.0296,39.0,Celle,Niedersachsen,7.99375
+daily,climate_summary,00853,1882-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.7913,12.872,416.0,Chemnitz,Sachsen,6.5
+daily,climate_summary,00856,1998-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.8843,12.5404,551.0,Chieming,Bayern,6.728125
+daily,climate_summary,00860,2023-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.2731,10.0163,80.0,Algermissen-Groß Lobke,Niedersachsen,7.95625
+daily,climate_summary,00867,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.3066,10.9679,344.0,Lautertal-Oberlauter,Bayern,7.00625
+daily,climate_summary,00880,1887-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7759,14.3168,69.0,Cottbus,Brandenburg,7.390625
+daily,climate_summary,00891,1946-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.8712,8.7058,5.0,Cuxhaven,Niedersachsen,7.95625
+daily,climate_summary,00896,1949-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0778,10.8619,170.0,Dachwig,Thüringen,7.2
+daily,climate_summary,00917,1995-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.8809,8.6779,162.0,Darmstadt,Hessen,8.987499999999999
+daily,climate_summary,00953,1950-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.7619,7.0542,481.0,Deuselbach,Rheinland-Pfalz,7.7093750000000005
+daily,climate_summary,00954,1998-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.1796,7.4587,0.0,UFS Deutsche Bucht,Hamburg,6.50625
+daily,climate_summary,00963,1952-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.5881,8.3424,38.0,Diepholz,Niedersachsen,8.296875
+daily,climate_summary,00983,2006-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.5562,10.56,419.0,Dillingen/Donau-Fristingen,Bayern,7.221875
+daily,climate_summary,00991,1954-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.9116,13.7087,359.0,Dippoldiswalde-Reinberg,Sachsen,5.696875
+daily,climate_summary,01001,1948-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.6451,13.5747,97.0,Doberlug-Kirchhain,Brandenburg,6.725
+daily,climate_summary,01048,1934-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.1278,13.7543,228.0,Dresden-Klotzsche,Sachsen,7.30625
+daily,climate_summary,01050,1949-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0221,13.847,112.0,Dresden-Hosterwitz,Sachsen,7.49375
+daily,climate_summary,01052,1993-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.2174,12.1641,80.0,Möckern-Drewitz,Sachsen-Anhalt,7.190625
+daily,climate_summary,01072,1952-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.4719,8.1929,107.0,"Dürkheim, Bad",Rheinland-Pfalz,9.540625
+daily,climate_summary,01078,1952-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.296,6.7686,37.0,Düsseldorf,Nordrhein-Westfalen,9.39375
+daily,climate_summary,01103,1978-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.1003,11.9872,592.0,Ebersberg-Halbing,Bayern,6.853125
+daily,climate_summary,01107,1963-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.852,10.4991,346.0,Ebrach,Bayern,6.728125
+daily,climate_summary,01161,1955-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.8778,11.2349,385.0,Eichstätt-Landershofen,Bayern,6.453125
+daily,climate_summary,01197,1941-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.9895,10.1312,463.0,Ellwangen-Rindelbach,Baden-Württemberg,6.765625
+daily,climate_summary,01200,1998-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.0691,9.0105,3.0,Elpersbüttel,Schleswig-Holstein,7.409375
+daily,climate_summary,01207,1948-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.2705,12.2742,558.0,"Elster, Bad-Sohl",Sachsen,4.803125
+daily,climate_summary,01214,1987-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.2012,8.1088,431.0,Elzach-Fisnacht,Baden-Württemberg,7.615625
+daily,climate_summary,01224,1975-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.1378,7.8351,201.0,Emmendingen-Mundingen,Baden-Württemberg,8.434375
+daily,climate_summary,01246,2015-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.8418,8.0607,104.0,Ennigerloh-Ostenfelde,Nordrhein-Westfalen,8.521875
+daily,climate_summary,01255,2002-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.1661,8.8483,226.0,Eppingen-Elsenz,Baden-Württemberg,8.43125
+daily,climate_summary,01262,1992-05-17 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.3477,11.8134,446.0,München-Flughafen,Bayern,6.99375
+daily,climate_summary,01266,1964-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.2992,9.3162,18.0,Erfde,Schleswig-Holstein,7.2375
+daily,climate_summary,01270,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.9827,10.9613,317.0,Erfurt-Weimar,Thüringen,6.8625
+daily,climate_summary,01279,1949-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.6497,11.0075,268.0,Möhrendorf-Kleinseebach,Bayern,7.834375
+daily,climate_summary,01297,1947-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.2041,10.0138,156.0,Eschwege,Hessen,7.64375
+daily,climate_summary,01300,1938-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.254,8.1565,351.0,Eslohe,Nordrhein-Westfalen,6.384375
+daily,climate_summary,01303,1935-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.4041,6.9677,150.0,Essen-Bredeney,Nordrhein-Westfalen,9.3375
+daily,climate_summary,01327,1937-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.7119,6.7905,147.0,Weilerswist-Lommersum,Nordrhein-Westfalen,8.909375
+daily,climate_summary,01332,1966-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.4832,12.7241,471.0,"Falkenberg,Kr.Rottal-Inn",Bayern,7.565625
+daily,climate_summary,01339,1971-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.9157,10.1885,74.0,Faßberg,Niedersachsen,6.83125
+daily,climate_summary,01346,1945-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.8748,8.0038,1486.0,Feldberg/Schwarzwald,Baden-Württemberg,1.4812500000000002
+daily,climate_summary,01357,1948-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.9807,11.8376,655.0,Fichtelberg/Oberfranken-Hüttstadl,Bayern,4.765625
+daily,climate_summary,01358,1890-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.4283,12.9536,1213.0,Fichtelberg,Sachsen,1.2999999999999998
+daily,climate_summary,01411,1949-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5309,10.0479,747.0,Birx/Rhön,Thüringen,5.140625
+daily,climate_summary,01420,1935-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.0259,8.5213,100.0,Frankfurt/Main,Hessen,9.790625
+daily,climate_summary,01424,1985-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.1269,8.6694,121.0,Frankfurt/Main-Westend,Hessen,10.04375
+daily,climate_summary,01443,1874-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.0232,7.8343,237.0,Freiburg,Baden-Württemberg,8.890625
+daily,climate_summary,01451,1970-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.8277,9.2493,2.0,Freiburg/Elbe,Niedersachsen,7.734375
+daily,climate_summary,01468,1949-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.4538,8.409,797.0,Freudenstadt,Baden-Württemberg,5.5
+daily,climate_summary,01503,1947-02-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.0643,7.902,6.0,Friesoythe-Altenoythe,Niedersachsen,8.18125
+daily,climate_summary,01504,2000-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.119,9.2799,172.0,Fritzlar/Eder,Hessen,7.625
+daily,climate_summary,01526,1885-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5668,9.6532,245.0,Fulda-Horas,Hessen,7.2
+daily,climate_summary,01544,1936-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.5129,11.3942,47.0,Gardelegen,Sachsen-Anhalt,7.10625
+daily,climate_summary,01550,1936-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.483,11.0621,719.0,Garmisch-Partenkirchen,Bayern,5.871875
+daily,climate_summary,01572,1982-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.9593,6.0392,80.0,Geilenkirchen-Neutevern,Nordrhein-Westfalen,9.365625
+daily,climate_summary,01580,1884-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.9859,7.9548,111.0,Geisenheim,Hessen,9.528125
+daily,climate_summary,01587,1998-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.9481,11.4289,536.0,Gelbelsee,Bayern,6.746875
+daily,climate_summary,01590,1963-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.4942,6.2463,37.0,Geldern-Walbeck,Nordrhein-Westfalen,9.315625
+daily,climate_summary,01602,1970-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.433,7.993,177.0,Ohlsbach,Baden-Württemberg,9.390625
+daily,climate_summary,01605,1953-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.3875,12.1602,35.0,Genthin,Sachsen-Anhalt,7.034375
+daily,climate_summary,01612,1952-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.8812,12.1289,311.0,Gera-Leumnitz,Thüringen,6.75
+daily,climate_summary,01639,1939-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.6017,8.6439,203.0,Gießen/Wettenberg,Hessen,8.140625
+daily,climate_summary,01645,1949-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.9656,9.05,327.0,Gilserberg-Moischeid,Hessen,6.39375
+daily,climate_summary,01666,1971-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.8273,9.5058,12.0,Glücksburg-Meierwik,Schleswig-Holstein,6.69375
+daily,climate_summary,01684,1860-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.1621,14.9506,239.0,Görlitz,Sachsen,7.16875
+daily,climate_summary,01691,1858-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.5002,9.9507,167.0,Göttingen,Niedersachsen,7.45625
+daily,climate_summary,01694,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.6058,12.1034,59.0,Goldberg,Mecklenburg-Vorpommern,7.015625
+daily,climate_summary,01721,1991-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.664,11.2239,506.0,Gräfenberg-Kasberg,Bayern,6.9375
+daily,climate_summary,01735,1995-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.7894,13.629,628.0,Grainet-Rehberg,Bayern,6.15625
+daily,climate_summary,01736,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.5731,10.6797,26.0,Grambek,Schleswig-Holstein,7.290625
+daily,climate_summary,01757,1898-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.0967,13.4056,2.0,Greifswald,Mecklenburg-Vorpommern,6.409375
+daily,climate_summary,01759,1947-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.2437,13.9104,11.0,Greifswalder Oie,Mecklenburg-Vorpommern,5.84375
+daily,climate_summary,01766,1982-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.1344,7.6969,48.0,Münster/Osnabrück,Nordrhein-Westfalen,8.75625
+daily,climate_summary,01792,2020-08-14 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.7553,7.4815,27.0,Groß Berßen,Niedersachsen,8.3875
+daily,climate_summary,01803,1949-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.0714,12.3238,35.0,Sanitz-Groß Lüsewitz,Mecklenburg-Vorpommern,6.434375
+daily,climate_summary,01832,1982-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.1129,13.1338,1436.0,Großer Arber,Bayern,0.65
+daily,climate_summary,01863,1995-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.2667,9.1854,258.0,Gründau-Breitenborn,Hessen,8.771875
+daily,climate_summary,01869,1973-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.3154,13.9339,56.0,Grünow,Brandenburg,6.8375
+daily,climate_summary,01886,2009-11-26 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.4878,10.2608,444.0,Günzburg,Bayern,7.065625
+daily,climate_summary,01964,1952-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.9445,6.3821,328.0,Olsdorf,Rheinland-Pfalz,8.08125
+daily,climate_summary,01975,1936-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.6332,9.9881,11.0,Hamburg-Fuhlsbüttel,Hamburg,7.925
+daily,climate_summary,01981,1962-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.4776,9.8957,4.0,Hamburg-Neuwiedenthal,Hamburg,8.403125
+daily,climate_summary,02014,1936-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.4644,9.6779,55.0,Hannover,Niedersachsen,8.1375
+daily,climate_summary,02023,1998-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.7918,10.7062,501.0,Harburg,Bayern,7.225
+daily,climate_summary,02039,1936-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.9002,10.5699,203.0,"Harzburg, Bad",Niedersachsen,7.609375
+daily,climate_summary,02044,1945-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.652,11.1366,404.0,Harzgerode,Sachsen-Anhalt,5.625
+daily,climate_summary,02074,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.3752,8.98,518.0,Hechingen,Baden-Württemberg,6.8
+daily,climate_summary,02115,1952-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.175,7.892,4.0,Helgoland,Schleswig-Holstein,6.690625
+daily,climate_summary,02171,1949-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.852,9.7377,272.0,"Hersfeld, Bad",Hessen,7.684375
+daily,climate_summary,02174,1991-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.6255,10.3695,236.0,Herzberg,Niedersachsen,7.109375
+daily,climate_summary,02201,1931-04-14 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.575,13.1044,1.0,Hiddensee-Vitte,Mecklenburg-Vorpommern,6.20625
+daily,climate_summary,02211,1937-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.737,7.6525,295.0,Hilgenroth,Rheinland-Pfalz,8.29375
+daily,climate_summary,02252,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.8992,14.7456,271.0,Bertsdorf-Hörnitz,Sachsen,6.15625
+daily,climate_summary,02261,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.3123,11.876,565.0,Hof,Bayern,5.375
+daily,climate_summary,02290,1781-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.8009,11.0108,977.0,Hohenpeißenberg,Bayern,5.09375
+daily,climate_summary,02303,1969-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.3162,9.5385,10.0,Hohn,Schleswig-Holstein,6.80625
+daily,climate_summary,02306,1977-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.3194,10.6732,8.0,Hohwacht,Schleswig-Holstein,6.534375
+daily,climate_summary,02315,2000-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7657,13.1666,78.0,Holzdorf-Bernsdorf,Brandenburg,6.55625
+daily,climate_summary,02319,1982-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.8823,11.6961,685.0,Holzkirchen,Bayern,6.16875
+daily,climate_summary,02323,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.8529,9.4953,110.0,"Bevern, Kr. Holzminden",Niedersachsen,8.021875
+daily,climate_summary,02362,1982-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5651,7.4843,331.0,Hümmerich,Rheinland-Pfalz,8.25
+daily,climate_summary,02385,1974-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.6927,7.3263,376.0,Idar-Oberstein,Rheinland-Pfalz,7.43125
+daily,climate_summary,02410,1974-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.7111,11.5363,364.0,Ingolstadt-Manching,Bayern,7.315625
+daily,climate_summary,02429,1988-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.9897,9.5697,20.0,Itzehoe,Schleswig-Holstein,7.259375
+daily,climate_summary,02437,1971-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.457,9.5203,21.0,Schleswig-Jagel,Schleswig-Holstein,6.86875
+daily,climate_summary,02444,1821-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.9251,11.583,155.0,Jena (Sternwarte),Thüringen,7.815625
+daily,climate_summary,02480,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.0643,8.993,108.0,Kahl/Main,Bayern,9.25625
+daily,climate_summary,02483,1926-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.1803,8.4891,839.0,Kahler Asten,Nordrhein-Westfalen,4.25625
+daily,climate_summary,02485,2011-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.917,9.6871,489.0,Kaisersbach-Cronhütte,Baden-Württemberg,6.240625
+daily,climate_summary,02486,1901-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.4262,7.7557,271.0,Kaiserslautern,Rheinland-Pfalz,8.534375
+daily,climate_summary,02497,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5014,6.5264,505.0,Kall-Sistig,Nordrhein-Westfalen,6.971875
+daily,climate_summary,02559,1952-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.7233,10.3348,705.0,Kempten,Bayern,6.165625
+daily,climate_summary,02564,1974-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.3776,10.1424,28.0,Kiel-Holtenau,Schleswig-Holstein,7.159375
+daily,climate_summary,02575,2007-05-22 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.1804,9.98,432.0,Kirchberg/Jagst-Herboldshausen,Baden-Württemberg,7.09375
+daily,climate_summary,02578,1865-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.9995,11.4341,14.0,Kirchdorf/Poel,Mecklenburg-Vorpommern,7.025
+daily,climate_summary,02597,1946-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.224,10.0792,282.0,"Kissingen, Bad",Bayern,7.628125
+daily,climate_summary,02600,1982-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.7363,10.1781,193.0,Kitzingen,Bayern,8.30625
+daily,climate_summary,02601,1936-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.2218,8.4469,822.0,Kleiner Feldberg/Taunus,Hessen,5.009375
+daily,climate_summary,02618,1958-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.8458,10.4803,732.0,Kleiner Inselsberg,Thüringen,4.746875
+daily,climate_summary,02627,1996-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.5554,13.8845,128.0,Schipkau-Klettwitz,Brandenburg,6.471875
+daily,climate_summary,02629,1904-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7612,6.0954,46.0,Kleve,Nordrhein-Westfalen,9.00625
+daily,climate_summary,02638,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.1054,8.7548,974.0,Klippeneck,Baden-Württemberg,5.14375
+daily,climate_summary,02641,1994-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.5185,12.9065,90.0,Klitzschen bei Torgau,Sachsen,7.053125
+daily,climate_summary,02667,1957-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.8645,7.1575,91.0,Köln/Bonn,Nordrhein-Westfalen,9.165625
+daily,climate_summary,02680,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.284,10.4456,289.0,"Königshofen, Bad",Bayern,6.65625
+daily,climate_summary,02700,1961-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.8302,11.4872,416.0,Kösching,Bayern,7.709375
+daily,climate_summary,02704,1955-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7511,12.0094,76.0,Köthen (Anhalt),Sachsen-Anhalt,7.89375
+daily,climate_summary,02708,1991-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.6652,11.0805,742.0,"Kohlgrub, Bad (Rosshof)",Bayern,5.6625
+daily,climate_summary,02712,1959-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.6952,9.1307,428.0,Konstanz,Baden-Württemberg,8.096875
+daily,climate_summary,02750,1949-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.2524,11.3209,310.0,Kronach,Bayern,6.175
+daily,climate_summary,02773,1974-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.4283,11.9016,416.0,Kümmersbruck,Bayern,6.571875
+daily,climate_summary,02794,1945-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.9362,12.4093,40.0,Kyritz,Brandenburg,7.06875
+daily,climate_summary,02796,2000-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.9156,12.279,40.0,Laage-Kronskamp,Mecklenburg-Vorpommern,6.721875
+daily,climate_summary,02812,1950-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.3647,7.828,156.0,Lahr,Baden-Württemberg,9.0875
+daily,climate_summary,02856,1993-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.9173,13.0878,92.0,Langenlipsdorf,Brandenburg,6.88125
+daily,climate_summary,02878,1947-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.3909,11.8786,117.0,"Lauchstädt, Bad",Sachsen-Anhalt,7.528125
+daily,climate_summary,02886,1970-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.2175,9.9097,539.0,Laupheim,Baden-Württemberg,6.8375
+daily,climate_summary,02905,1969-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.1849,10.8507,550.0,Lechfeld,Bayern,6.41875
+daily,climate_summary,02907,1974-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.7903,8.9514,7.0,Leck,Schleswig-Holstein,7.0125
+daily,climate_summary,02925,1957-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.3932,10.3123,356.0,Leinefelde,Thüringen,6.83125
+daily,climate_summary,02928,1759-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.3151,12.4462,138.0,Leipzig-Holzhausen,Sachsen,7.26875
+daily,climate_summary,02932,1934-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.4347,12.2396,131.0,Leipzig/Halle,Sachsen,7.434375
+daily,climate_summary,02947,1962-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.1333,8.0348,286.0,Lennestadt-Theten,Nordrhein-Westfalen,7.034375
+daily,climate_summary,02951,1994-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.1007,11.4864,20.0,Lenzen/Elbe,Brandenburg,7.271875
+daily,climate_summary,02953,1961-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.8597,8.2308,854.0,Lenzkirch-Ruhbühl,Baden-Württemberg,5.1375
+daily,climate_summary,02961,1998-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.4996,10.2737,0.0,Leuchtturm Kiel,Schleswig-Holstein,6.578125
+daily,climate_summary,02985,1991-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.9383,14.2094,321.0,Lichtenhain-Mittelndorf,Sachsen,6.584375
+daily,climate_summary,03015,1906-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.2085,14.118,98.0,Lindenberg,Brandenburg,7.64375
+daily,climate_summary,03028,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7854,8.8388,157.0,"Lippspringe, Bad",Nordrhein-Westfalen,7.81875
+daily,climate_summary,03031,1980-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.6336,8.3945,92.0,Lippstadt-Bökenförde,Nordrhein-Westfalen,8.425
+daily,climate_summary,03032,1937-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,55.011,8.4125,25.0,List auf Sylt,Schleswig-Holstein,7.01875
+daily,climate_summary,03034,1952-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.4505,11.635,496.0,"Lobenstein, Bad",Thüringen,4.90625
+daily,climate_summary,03042,1993-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5617,8.2386,230.0,Löhnberg-Obershausen,Hessen,7.6125
+daily,climate_summary,03083,1991-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.9267,13.8797,57.0,Lübben-Blumenfelde,Brandenburg,7.1187499999999995
+daily,climate_summary,03086,1985-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.8025,10.6989,15.0,Lübeck-Blankensee,Schleswig-Holstein,7.178125
+daily,climate_summary,03093,1954-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.9724,11.1374,16.0,Lüchow,Niedersachsen,7.603125
+daily,climate_summary,03098,1994-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.2452,7.6425,387.0,Lüdenscheid,Nordrhein-Westfalen,7.50625
+daily,climate_summary,03126,1881-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.1029,11.5827,79.0,Magdeburg,Sachsen-Anhalt,8.190625
+daily,climate_summary,03137,1948-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.9658,8.2049,199.0,Mainz-Lerchenberg (ZDF),Rheinland-Pfalz,9.515625
+daily,climate_summary,03147,1953-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.7548,12.2118,390.0,Mallersdorf-Pfaffenberg-Oberlindhart,Bayern,6.746875
+daily,climate_summary,03155,1961-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.1015,6.8009,415.0,Manderscheid-Sonnenhof,Rheinland-Pfalz,7.1875
+daily,climate_summary,03158,1985-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.5468,14.5453,12.0,Manschnow,Brandenburg,7.503125
+daily,climate_summary,03164,1946-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.8492,8.7745,187.0,"Cölbe, Kr. Marburg-Biedenkopf",Hessen,7.90625
+daily,climate_summary,03166,1955-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.6511,13.1469,639.0,Marienberg,Sachsen,4.61875
+daily,climate_summary,03167,1962-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.6621,7.9603,547.0,"Marienberg, Bad",Rheinland-Pfalz,6.728125
+daily,climate_summary,03181,2021-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.4875,10.6277,360.0,Markt Erlbach-Hagenhofen,Bayern,6.45
+daily,climate_summary,03196,1902-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.3221,11.9324,81.0,Marnitz,Mecklenburg-Vorpommern,6.903125
+daily,climate_summary,03204,1983-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.7335,10.8815,429.0,Martinroda,Thüringen,6.153125
+daily,climate_summary,03226,2006-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7259,11.511,108.0,Aschersleben-Mehringen,Sachsen-Anhalt,7.203125
+daily,climate_summary,03231,1979-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5611,10.3771,450.0,Meiningen,Thüringen,6.6
+daily,climate_summary,03234,1956-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.1294,13.4328,158.0,Klipphausen-Garsebach,Sachsen,6.596875
+daily,climate_summary,03244,1961-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.9821,10.1384,614.0,Memmingen,Bayern,6.321875
+daily,climate_summary,03254,1973-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.7155,7.3176,19.0,Meppen,Niedersachsen,7.9937499999999995
+daily,climate_summary,03257,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.4797,9.7832,278.0,"Mergentheim, Bad",Baden-Württemberg,7.825
+daily,climate_summary,03268,2000-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.1694,8.9433,900.0,Meßstetten-Appental,Baden-Württemberg,4.375
+daily,climate_summary,03271,1941-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.8548,12.9189,314.0,Metten,Bayern,7.2375
+daily,climate_summary,03278,2003-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.5377,9.2734,354.0,Metzingen,Baden-Württemberg,8.121875
+daily,climate_summary,03284,1987-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.6692,9.0085,240.0,Michelstadt,Hessen,8.190625
+daily,climate_summary,03287,1987-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.7177,9.0997,453.0,Michelstadt-Vielbrunn,Hessen,7.7125
+daily,climate_summary,03289,1972-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.7281,11.7838,356.0,Schmieritz-Weltwitz,Thüringen,6.3
+daily,climate_summary,03307,1937-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.4814,11.2649,983.0,Mittenwald-Buckelwiesen,Bayern,4.340625
+daily,climate_summary,03319,2006-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.7644,9.253,239.0,Röllbach,Bayern,8.396875
+daily,climate_summary,03321,2008-04-25 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.1313,6.3608,76.0,Mönchengladbach-Hilderath,Nordrhein-Westfalen,9.31875
+daily,climate_summary,03348,1990-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7209,9.8351,241.0,Moringen-Lutterbeck,Niedersachsen,6.875
+daily,climate_summary,03362,1998-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.9721,8.8735,243.0,Mühlacker,Baden-Württemberg,7.446875
+daily,climate_summary,03366,1953-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.279,12.5024,406.0,Mühldorf,Bayern,6.93125
+daily,climate_summary,03376,1937-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.5176,14.1232,64.0,Müncheberg,Brandenburg,7.009375
+daily,climate_summary,03379,1954-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.1632,11.5429,515.0,München-Stadt,Bayern,7.846875
+daily,climate_summary,03402,1946-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.3851,9.4837,755.0,Münsingen-Apfelstetten,Baden-Württemberg,5.71875
+daily,climate_summary,03426,1936-05-18 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.566,14.7008,127.0,"Muskau, Bad",Sachsen,6.296875
+daily,climate_summary,03442,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.3574,8.7506,149.0,"Nauheim, Bad",Hessen,9.15
+daily,climate_summary,03484,1973-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.7085,11.2147,379.0,Neuburg an der Donau,Bayern,7.425
+daily,climate_summary,03485,1991-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.3114,10.3773,487.0,Neuburg/Kammel-Langenhaslach,Bayern,6.940625
+daily,climate_summary,03490,1948-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5346,7.0853,111.0,"Neuenahr, Bad-Ahrweiler",Rheinland-Pfalz,9.109375
+daily,climate_summary,03509,2004-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.102,13.0421,78.0,Stechlin-Menz,Brandenburg,6.3375
+daily,climate_summary,03513,1953-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5003,11.1345,845.0,Neuhaus am Rennweg,Thüringen,3.803125
+daily,climate_summary,03527,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.8923,9.405,500.0,Neukirchen-Hauptschwenda,Hessen,6.740625
+daily,climate_summary,03540,1992-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.8446,7.372,195.0,Neunkirchen-Seelscheid-Krawinkel,Nordrhein-Westfalen,8.821875
+daily,climate_summary,03545,1970-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.344,7.2297,236.0,Neunkirchen-Wellesweiler,Saarland,8.178125
+daily,climate_summary,03571,2008-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.8174,11.8638,452.0,Neustadt am Kulm-Filchendorf,Bayern,5.990625
+daily,climate_summary,03591,1994-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.6743,6.424,350.0,Nideggen-Schmidt,Nordrhein-Westfalen,8.1375
+daily,climate_summary,03603,2000-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.3895,9.9666,459.0,Niederstetten,Baden-Württemberg,7.20625
+daily,climate_summary,03621,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.8253,10.5066,436.0,Reimlingen,Bayern,7.034375
+daily,climate_summary,03623,1969-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.8294,6.6601,108.0,Nörvenich-Niederbolheim,Nordrhein-Westfalen,9.021875
+daily,climate_summary,03631,1858-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.7123,7.1519,12.0,Norderney,Niedersachsen,8.053125
+daily,climate_summary,03639,1974-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.7647,8.6584,24.0,Nordholz-Wanhöden,Niedersachsen,7.44375
+daily,climate_summary,03660,1995-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.3602,6.8697,485.0,Nürburg-Barweiler,Rheinland-Pfalz,7.30625
+daily,climate_summary,03667,1975-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.4258,11.2539,369.0,Nürnberg-Netzstall,Bayern,6.334375
+daily,climate_summary,03668,1879-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.503,11.0549,314.0,Nürnberg,Bayern,7.56875
+daily,climate_summary,03679,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.6187,12.1665,518.0,Kiefersfelden-Gach,Bayern,6.78125
+daily,climate_summary,03730,1910-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.3984,10.2759,806.0,Oberstdorf,Bayern,5.003125
+daily,climate_summary,03734,2004-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.128,9.3525,232.0,Obersulm-Willsbach,Baden-Württemberg,8.853125
+daily,climate_summary,03739,1948-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.4521,12.4365,596.0,Oberviechtach,Bayern,6.1
+daily,climate_summary,03761,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.207,9.5176,276.0,Öhringen,Baden-Württemberg,8.734375
+daily,climate_summary,03811,1941-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.296,13.0928,151.0,Oschatz,Sachsen,7.059375
+daily,climate_summary,03821,1984-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0872,11.9293,244.0,Osterfeld,Sachsen-Anhalt,7.29375
+daily,climate_summary,03836,1972-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.4538,10.2211,314.0,Ostheim v.d. Rhön,Bayern,6.7125
+daily,climate_summary,03857,1993-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.6362,10.3892,886.0,Oy-Mittelberg-Petersthal,Bayern,5.278125
+daily,climate_summary,03875,1950-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.151,11.6897,549.0,Parsberg/Oberpfalz-Eglwang,Bayern,6.428125
+daily,climate_summary,03897,1998-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.0893,10.8773,2.0,Pelzerhaken,Schleswig-Holstein,6.253125
+daily,climate_summary,03904,1965-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.5354,6.3789,152.0,Perl-Nennig,Saarland,7.96875
+daily,climate_summary,03925,1989-04-06 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.9329,8.6973,332.0,Pforzheim-Ispringen,Baden-Württemberg,7.80625
+daily,climate_summary,03927,1958-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.9345,9.2869,630.0,Pfullendorf,Baden-Württemberg,5.9375
+daily,climate_summary,03939,1950-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.1912,7.5879,382.0,Pirmasens,Rheinland-Pfalz,8.571875
+daily,climate_summary,03946,1882-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.4818,12.13,387.0,Plauen,Sachsen,5.834375
+daily,climate_summary,03975,1993-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.4777,11.5357,522.0,Pommelsbrunn-Mittelburg,Bayern,6.51875
+daily,climate_summary,03987,1893-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.3812,13.0622,81.0,Potsdam,Brandenburg,7.578125
+daily,climate_summary,04024,1853-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.3643,13.4771,40.0,Putbus,Mecklenburg-Vorpommern,6.184375
+daily,climate_summary,04032,1945-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7953,11.132,142.0,Quedlinburg,Sachsen-Anhalt,7.640625
+daily,climate_summary,04036,1953-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.3895,11.5412,206.0,Querfurt-Mühle Lodersleben,Sachsen-Anhalt,6.8625
+daily,climate_summary,04039,1974-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.7331,9.8776,11.0,Quickborn,Schleswig-Holstein,7.365625
+daily,climate_summary,04063,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.4461,8.5906,41.0,Rahden-Kleinendorf,Nordrhein-Westfalen,8.153125
+daily,climate_summary,04094,1946-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.8062,9.6206,441.0,"Weingarten, Kr. Ravensburg",Baden-Württemberg,7.54375
+daily,climate_summary,04104,1879-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.0425,12.1019,365.0,Regensburg,Bayern,7.475
+daily,climate_summary,04127,1991-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.9906,7.6958,347.0,Reichshof-Eckenhagen,Nordrhein-Westfalen,8.190625
+daily,climate_summary,04160,1970-12-22 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.7425,8.924,478.0,Renningen-Ihinger Hof,Baden-Württemberg,6.93125
+daily,climate_summary,04169,1958-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.6703,7.9939,131.0,Rheinau-Memprechtshofen,Baden-Württemberg,9.215625
+daily,climate_summary,04175,1953-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.559,7.7721,283.0,Rheinfelden,Baden-Württemberg,8.796875
+daily,climate_summary,04177,1948-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.9726,8.3301,116.0,Rheinstetten,Baden-Württemberg,9.046875
+daily,climate_summary,04189,2004-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.1479,9.4596,534.0,"Altheim, Kreis Biberach",Baden-Württemberg,6.584375
+daily,climate_summary,04271,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.1803,12.0808,5.0,Rostock-Warnemünde,Mecklenburg-Vorpommern,6.98125
+daily,climate_summary,04275,1946-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.1289,9.3398,32.0,Rotenburg (Wümme),Niedersachsen,7.95625
+daily,climate_summary,04280,1971-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.2162,11.1035,386.0,Roth,Bayern,6.921875
+daily,climate_summary,04287,1947-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.3849,10.1732,415.0,Rothenburg ob der Tauber,Bayern,7.278125
+daily,climate_summary,04300,1957-02-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.1815,8.6356,589.0,Rottweil,Baden-Württemberg,6.04375
+daily,climate_summary,04301,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.8502,7.871,102.0,"Kreuznach, Bad",Rheinland-Pfalz,9.653125
+daily,climate_summary,04323,1969-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.6468,7.8837,461.0,Ruppertsecken,Rheinland-Pfalz,7.84375
+daily,climate_summary,04336,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.2128,7.1077,319.0,Saarbrücken-Ensheim,Saarland,8.33125
+daily,climate_summary,04349,1987-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.9569,9.0711,251.0,Sachsenheim,Baden-Württemberg,8.603125
+daily,climate_summary,04354,1985-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.7832,13.3146,457.0,Saldenburg-Entschenreuth,Bayern,6.834375
+daily,climate_summary,04371,1935-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.1042,8.7521,135.0,"Salzuflen, Bad",Nordrhein-Westfalen,8.4625
+daily,climate_summary,04377,1965-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.3518,10.0034,518.0,Sandberg,Bayern,7.2375
+daily,climate_summary,04393,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.3279,8.6031,5.0,Sankt Peter-Ording,Schleswig-Holstein,7.26875
+daily,climate_summary,04411,1979-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.9195,8.9672,155.0,Schaafheim-Schlierbach,Hessen,8.7375
+daily,climate_summary,04445,1902-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7659,10.6533,614.0,Wernigerode-Schierke,Sachsen-Anhalt,4.453125
+daily,climate_summary,04464,1951-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5679,11.8041,501.0,Schleiz,Thüringen,5.95625
+daily,climate_summary,04466,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.5275,9.5487,43.0,Schleswig,Schleswig-Holstein,7.0875
+daily,climate_summary,04480,1985-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.3447,9.5533,232.0,Schlüchtern-Herolz,Hessen,7.3875
+daily,climate_summary,04501,1936-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.6545,10.7696,938.0,Schmücke,Thüringen,3.13125
+daily,climate_summary,04508,1953-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.2968,6.4194,653.0,Schneifelforsthaus,Rheinland-Pfalz,6.121875
+daily,climate_summary,04548,2007-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.1847,12.0791,608.0,Schönwald/Ofr.-Brunn,Bayern,5.05625
+daily,climate_summary,04559,1996-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.1644,12.6175,398.0,Schorndorf-Knöbling,Bayern,5.909375
+daily,climate_summary,04592,1955-10-21 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.3278,12.0871,356.0,Schwandorf,Bayern,7.153125
+daily,climate_summary,04605,1949-07-05 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.6441,11.1936,277.0,Schwarzburg,Thüringen,6.453125
+daily,climate_summary,04625,1890-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.6424,11.3871,59.0,Schwerin,Mecklenburg-Vorpommern,7.384375
+daily,climate_summary,04642,1976-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.8911,11.7297,22.0,Seehausen,Sachsen-Anhalt,7.328125
+daily,climate_summary,04651,1937-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.904,10.1885,189.0,Seesen,Niedersachsen,7.2875
+daily,climate_summary,04703,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.0719,9.1943,581.0,Sigmaringen-Laiz,Baden-Württemberg,6.26875
+daily,climate_summary,04704,1988-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.5776,9.7404,508.0,Sigmarszell-Zeisertsweiler,Bayern,7.503125
+daily,climate_summary,04706,1981-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.2718,13.0273,358.0,Simbach/Inn,Bayern,7.571875
+daily,climate_summary,04709,1979-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.9996,7.5981,445.0,Simmern-Wahlbach,Rheinland-Pfalz,7.128571428571428
+daily,climate_summary,04745,1935-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.9604,9.793,75.0,Soltau,Niedersachsen,7.490625
+daily,climate_summary,04748,1861-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.3691,10.88,185.0,Sondershausen,Thüringen,7.1
+daily,climate_summary,04763,1961-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0607,9.9266,265.0,Sontra,Hessen,6.661290322580645
+daily,climate_summary,04813,2020-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.0806,11.0467,318.0,"Staffelstein, Bad-Stublang",Bayern,6.978125
+daily,climate_summary,04841,1998-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.6946,8.8735,-0.0,"Steinau, Kr. Cuxhaven",Niedersachsen,7.29375
+daily,climate_summary,04857,1990-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.5534,9.6097,2.0,Mittelnkirchen-Hohenfelde,Niedersachsen,7.8375
+daily,climate_summary,04878,1930-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.6647,10.881,505.0,Oberharz am Brocken-Stiege,Sachsen-Anhalt,4.9875
+daily,climate_summary,04887,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.6656,9.8648,734.0,Stötten,Baden-Württemberg,6.196875
+daily,climate_summary,04911,1949-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.8275,12.5597,351.0,Straubing,Bayern,7.5
+daily,climate_summary,04928,1958-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.8281,9.2,314.0,Stuttgart (Schnarrenberg),Baden-Württemberg,8.74375
+daily,climate_summary,04931,1953-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.6883,9.2235,371.0,Stuttgart-Echterdingen,Baden-Württemberg,7.853125
+daily,climate_summary,04978,1986-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.639,10.0228,395.0,Tann/Rhön,Hessen,6.834375
+daily,climate_summary,04997,1994-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.9771,12.3419,196.0,Starkenberg-Tegkwitz,Thüringen,6.076923076923077
+daily,climate_summary,05009,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.761,12.5574,37.0,Teterow,Mecklenburg-Vorpommern,6.94375
+daily,climate_summary,05014,1952-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.2758,8.9857,7.0,Worpswede-Hüttenbusch,Niedersachsen,7.765625
+daily,climate_summary,05017,1948-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.4002,11.3888,633.0,Teuschnitz,Bayern,5.36875
+daily,climate_summary,05029,1975-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.4737,7.0385,387.0,Tholey,Saarland,8.471875
+daily,climate_summary,05046,1967-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.8576,12.3542,501.0,Tirschenreuth-Lodermühl,Bayern,5.428125
+daily,climate_summary,05064,2004-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.2897,6.4437,37.0,Tönisvorst,Nordrhein-Westfalen,9.384375
+daily,climate_summary,05097,1991-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.0654,12.7655,10.0,Tribsees,Mecklenburg-Vorpommern,6.2718750000000005
+daily,climate_summary,05099,1907-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.7326,6.6131,132.0,Trier-Zewen,Rheinland-Pfalz,9.196875
+daily,climate_summary,05100,1937-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.7479,6.6583,261.0,Trier-Petrisberg,Rheinland-Pfalz,8.7625
+daily,climate_summary,05109,2000-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.5998,13.3039,68.0,Trollenhagen,Mecklenburg-Vorpommern,6.915625
+daily,climate_summary,05111,1945-01-01 00:00:00+00:00,2026-04-14 00:00:00+00:00,48.0311,12.5396,560.0,Trostberg,Bayern,6.199999999999999
+daily,climate_summary,05133,1998-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.3344,8.9132,287.0,Twistetal-Mühlhausen,Hessen,7.109375
+daily,climate_summary,05142,1936-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.7445,14.0698,1.0,Ueckermünde,Mecklenburg-Vorpommern,6.484375
+daily,climate_summary,05146,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.9414,10.5289,50.0,Uelzen,Niedersachsen,7.31875
+daily,climate_summary,05149,1951-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.5679,10.1969,318.0,Gollhofen,Bayern,7.853125
+daily,climate_summary,05158,1987-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.1601,11.1759,159.0,Ummendorf,Sachsen-Anhalt,7.5
+daily,climate_summary,05229,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.0453,8.4608,719.0,Villingen-Schwenningen,Baden-Württemberg,6.109375
+daily,climate_summary,05275,1985-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.2445,8.5374,105.0,Waghäusel-Kirrlach,Baden-Württemberg,9.75
+daily,climate_summary,05279,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.6194,9.5749,167.0,Wesertal-Lippoldsberg,Hessen,7.359375
+daily,climate_summary,05280,1981-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.9224,10.2267,33.0,Wittenborn,Schleswig-Holstein,7.1875
+daily,climate_summary,05300,1951-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.2596,8.3607,380.0,Waldems-Reinborn,Hessen,8.028125
+daily,climate_summary,05335,1945-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.8963,10.5483,352.0,Waltershausen,Thüringen,6.803125
+daily,climate_summary,05347,1998-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.5039,9.1118,236.0,Warburg,Nordrhein-Westfalen,7.215625
+daily,climate_summary,05349,1889-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.5196,12.6654,73.0,Waren (Müritz),Mecklenburg-Vorpommern,7.009375
+daily,climate_summary,05371,1923-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.4973,9.9427,920.0,Wasserkuppe,Hessen,3.8633333333333337
+daily,climate_summary,05397,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.6662,12.1844,440.0,Weiden,Bayern,6.534375
+daily,climate_summary,05404,1936-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.4024,11.6946,477.0,Weihenstephan-Dürnast,Bayern,6.784375
+daily,climate_summary,05424,1949-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0177,11.3544,328.0,Weimar-Schöndorf,Thüringen,7.1625
+daily,climate_summary,05426,1953-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.3758,8.1212,553.0,Weinbiet,Rheinland-Pfalz,7.615625
+daily,climate_summary,05433,1957-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.5534,6.812,383.0,Weiskirchen/Saar,Saarland,8.690625
+daily,climate_summary,05440,1879-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.0115,10.9308,439.0,Weißenburg-Emetzheim,Bayern,7.25
+daily,climate_summary,05480,1975-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.5763,7.8879,85.0,Werl,Nordrhein-Westfalen,8.6375
+daily,climate_summary,05490,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.8454,10.7686,233.0,Wernigerode,Sachsen-Anhalt,7.353125
+daily,climate_summary,05516,1948-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.5283,11.0606,3.0,Fehmarn,Schleswig-Holstein,6.31875
+daily,climate_summary,05538,1999-02-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.8827,11.1576,551.0,Wielenbach (Demollstr.),Bayern,6.525
+daily,climate_summary,05541,1987-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.1321,8.3169,263.0,Wiesbaden-Auringen,Hessen,8.371875
+daily,climate_summary,05546,1967-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.1206,12.4586,187.0,Wiesenburg,Brandenburg,7.11875
+daily,climate_summary,05562,1995-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.6516,8.6801,571.0,Neubulach-Oberhaugstett,Baden-Württemberg,6.29375
+daily,climate_summary,05629,1937-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.8891,12.6446,105.0,Wittenberg,Sachsen-Anhalt,7.375
+daily,climate_summary,05640,1969-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.5444,7.6625,7.0,Wittmundhafen,Niedersachsen,7.54375
+daily,climate_summary,05643,1994-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.1864,12.4949,68.0,Wittstock-Rote Mühle,Brandenburg,6.6625
+daily,climate_summary,05664,1958-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.2953,8.2391,296.0,Wolfach,Baden-Württemberg,7.65625
+daily,climate_summary,05688,2018-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.7004,8.1057,881.0,Dachsberg-Wolpadingen,Baden-Württemberg,6.378125
+daily,climate_summary,05692,1936-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.6051,8.3659,88.0,Worms,Rheinland-Pfalz,9.265625
+daily,climate_summary,05705,1947-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.7704,9.9576,268.0,Würzburg,Bayern,8.690625
+daily,climate_summary,05715,1974-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.4626,9.4245,49.0,Wunstorf,Niedersachsen,8.309375
+daily,climate_summary,05717,1937-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.2256,7.1052,134.0,Wuppertal-Buchenhofen,Nordrhein-Westfalen,8.753125
+daily,climate_summary,05731,1961-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.6783,8.3801,395.0,Wutöschingen-Ofteringen,Baden-Württemberg,7.56875
+daily,climate_summary,05745,1948-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.9664,13.3268,51.0,Zehdenick,Brandenburg,6.99375
+daily,climate_summary,05750,1952-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0314,12.1495,264.0,Zeitz,Sachsen-Anhalt,7.51875
+daily,climate_summary,05779,1971-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.7313,13.7516,877.0,Zinnwald-Georgenfeld,Sachsen,3.2875
+daily,climate_summary,05792,1900-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.421,10.9848,2956.0,Zugspitze,Bayern,-7.740625
+daily,climate_summary,05797,1863-12-04 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.6879,12.4329,349.0,Lichtentanne,Sachsen,6.453125
+daily,climate_summary,05800,1998-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.028,13.2385,615.0,Zwiesel,Bayern,5.63125
+daily,climate_summary,05822,1975-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.863,8.6989,42.0,Bassum,Niedersachsen,8.23125
+daily,climate_summary,05825,1953-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.6198,12.7867,41.0,Berge,Brandenburg,7.3625
+daily,climate_summary,05839,1997-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.3881,7.2287,-0.0,Emden,Niedersachsen,7.9625
+daily,climate_summary,05856,1996-12-31 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.5451,13.3532,476.0,Fürstenzell,Bayern,7.31875
+daily,climate_summary,05871,1998-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.9463,7.2645,497.0,Hahn,Rheinland-Pfalz,7.55625
+daily,climate_summary,05906,1781-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.5063,8.5584,98.0,Mannheim,Baden-Württemberg,9.6625
+daily,climate_summary,05930,1981-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.641,10.0238,1.0,Schönhagen (Ostseebad),Schleswig-Holstein,6.196875
+daily,climate_summary,06093,1998-02-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.2139,10.4704,62.0,Wendisch Evern,Niedersachsen,7.73125
+daily,climate_summary,06105,1998-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.3194,9.8051,15.0,Ostenfeld (Rendsburg),Schleswig-Holstein,6.98125
+daily,climate_summary,06109,1998-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.3837,14.3728,51.0,Grambow-Schwennenz,Mecklenburg-Vorpommern,6.86875
+daily,climate_summary,06129,1999-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0594,14.4266,291.0,Sohland/Spree,Sachsen,5.278125
+daily,climate_summary,06157,1999-02-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.6411,8.0809,4.0,Wangerland-Hooksiel,Niedersachsen,7.878125
+daily,climate_summary,06158,1999-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.2249,10.6085,454.0,Weidenbach-Weiherschneidbach,Bayern,6.703125
+daily,climate_summary,06159,1959-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.9542,7.3197,8.0,Dörpen,Niedersachsen,8.36875
+daily,climate_summary,06163,1999-10-04 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.1654,10.3519,27.0,Dörnick,Schleswig-Holstein,6.696875
+daily,climate_summary,06170,2000-02-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.0192,14.7254,39.0,Coschen,Brandenburg,6.884375
+daily,climate_summary,06197,2000-10-11 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.8664,9.271,258.0,Lügde-Paenbruch,Nordrhein-Westfalen,7.284375
+daily,climate_summary,06199,2000-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.2484,13.0419,16.0,Steinhagen-Negast,Mecklenburg-Vorpommern,6.090625
+daily,climate_summary,06217,2001-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.2406,6.9351,190.0,Saarbrücken-Burbach,Saarland,8.934375
+daily,climate_summary,06258,2003-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.6845,9.4409,461.0,Friedrichshafen-Unterraderach,Baden-Württemberg,8.35
+daily,climate_summary,06259,2004-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.021,9.6033,524.0,Großerlach-Mannenweiler,Baden-Württemberg,7.26875
+daily,climate_summary,06260,2002-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.3328,9.704,381.0,Ingelfingen-Stachenhausen,Baden-Württemberg,7.56875
+daily,climate_summary,06262,2002-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.7695,9.8737,412.0,Schwäbisch Gmünd-Weiler,Baden-Württemberg,7.29375
+daily,climate_summary,06263,2004-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.7738,8.8219,445.0,Singen,Baden-Württemberg,8.1375
+daily,climate_summary,06264,2004-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.414,8.65,457.0,Brilon-Thülen,Nordrhein-Westfalen,6.66875
+daily,climate_summary,06265,2004-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.3613,12.3867,36.0,Wusterwitz,Brandenburg,7.54375
+daily,climate_summary,06266,2004-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.0304,10.9626,112.0,Huy-Pabstorf,Sachsen-Anhalt,7.809375
+daily,climate_summary,06272,2004-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.8426,10.2518,284.0,"Salzungen, Bad-Gräfen-Nitzendorf",Thüringen,6.8031250000000005
+daily,climate_summary,06273,2004-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.5075,11.8551,36.0,Demker,Sachsen-Anhalt,7.353125
+daily,climate_summary,06275,2004-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.6705,9.4627,327.0,Notzingen,Baden-Württemberg,7.38125
+daily,climate_summary,06305,2004-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.2061,10.4978,194.0,Mühlhausen/Thüringen-Görmar,Thüringen,6.928125
+daily,climate_summary,06310,2004-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.1049,13.8239,1.0,Karlshagen,Mecklenburg-Vorpommern,5.790625
+daily,climate_summary,06314,1949-02-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0507,13.3003,306.0,Nossen,Sachsen,7.065625
+daily,climate_summary,06336,2005-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.0132,9.654,288.0,Lohr/Main-Halsbach,Bayern,7.81875
+daily,climate_summary,06337,2004-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.7663,7.5194,58.0,Lüdinghausen-Brochtrup,Nordrhein-Westfalen,8.69375
+daily,climate_summary,06344,2004-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.394,8.1423,168.0,Runkel-Ennerich,Hessen,8.246875
+daily,climate_summary,06346,2005-02-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.207,11.2035,531.0,Maisach-Galgen,Bayern,6.803125
+daily,climate_summary,06347,2005-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.0579,10.2972,305.0,Schonungen-Mainberg,Bayern,8.0
+daily,climate_summary,07075,2005-02-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.702,11.8493,429.0,Elsendorf-Horneck,Bayern,7.10625
+daily,climate_summary,07105,2005-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.835,12.6548,719.0,Siegsdorf-Höll,Bayern,5.86875
+daily,climate_summary,07106,2006-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.0714,8.4565,105.0,Bielefeld-Deppendorf,Nordrhein-Westfalen,7.796875
+daily,climate_summary,07187,2004-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.7636,9.4063,194.0,Freudenberg/Main-Boxtal,Baden-Württemberg,8.440625
+daily,climate_summary,07298,2005-07-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.5268,9.0425,4.0,Hattstedt,Schleswig-Holstein,7.18125
+daily,climate_summary,07319,2005-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.7374,10.7393,435.0,Donauwörth-Osterweiler,Bayern,7.065625
+daily,climate_summary,07321,2005-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.1507,11.3321,157.0,Olbersleben,Thüringen,6.753125
+daily,climate_summary,07329,2005-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5467,12.2863,465.0,Treuen,Sachsen,6.025
+daily,climate_summary,07330,2005-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.4633,7.978,159.0,Arnsberg-Neheim,Nordrhein-Westfalen,7.2
+daily,climate_summary,07331,2005-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.6099,10.2674,467.0,Hermaringen-Allewind,Baden-Württemberg,6.7593749999999995
+daily,climate_summary,07341,2005-07-15 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.09,8.7862,119.0,Offenbach-Wetterpark,Hessen,9.14375
+daily,climate_summary,07343,2006-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.62,13.4817,689.0,Deutschneudorf-Brüderwiese,Sachsen,3.759375
+daily,climate_summary,07351,2005-09-08 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.3176,13.4175,115.0,Feldberg/Mecklenburg,Mecklenburg-Vorpommern,6.503125
+daily,climate_summary,07364,2007-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.6818,12.3053,74.0,Jeßnitz,Sachsen-Anhalt,7.446875
+daily,climate_summary,07367,2007-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.9643,9.8072,144.0,Alfeld,Niedersachsen,7.340625
+daily,climate_summary,07368,2007-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0007,10.3621,312.0,Eisenach,Thüringen,6.88125
+daily,climate_summary,07369,2007-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.1623,10.3661,475.0,Feuchtwangen-Heilbronn,Bayern,6.4
+daily,climate_summary,07370,2006-12-11 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.391,12.6838,499.0,Waldmünchen,Bayern,5.83125
+daily,climate_summary,07373,2006-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.5984,6.7024,3.0,Borkum-Flugplatz,Niedersachsen,8.084375
+daily,climate_summary,07374,2006-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.0813,6.9409,46.0,Ahaus,Nordrhein-Westfalen,8.475
+daily,climate_summary,07389,2006-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.7461,13.8427,83.0,Heckelberg,Brandenburg,7.009375
+daily,climate_summary,07393,2010-01-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.4492,14.2533,116.0,Hoyerswerda,Sachsen,6.8
+daily,climate_summary,07394,2006-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.0315,11.9745,622.0,Wunsiedel-Schönbrunn,Bayern,5.2875
+daily,climate_summary,07395,2007-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.6595,12.5388,351.0,Gottfrieding,Bayern,7.35625
+daily,climate_summary,07396,2008-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.5084,9.2246,740.0,Hoherodskopf/Vogelsberg,Hessen,5.359375
+daily,climate_summary,07403,2007-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.7955,10.0325,672.0,Leutkirch-Herlazhofen,Baden-Württemberg,5.840625
+daily,climate_summary,07410,2011-02-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.7513,9.0224,350.0,Neu-Ulrichstein,Hessen,7.55625
+daily,climate_summary,07412,2006-10-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.0083,9.4238,340.0,Neuhütten/Spessart,Bayern,7.08125
+daily,climate_summary,07419,2006-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.661,12.0756,389.0,Langenwetzendorf-Göttendorf,Thüringen,5.928125
+daily,climate_summary,07420,2007-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.1045,11.7113,246.0,Naumburg/Saale-Kreipitzsch,Sachsen-Anhalt,6.896875
+daily,climate_summary,07424,2006-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.7724,12.9073,457.0,Piding,Bayern,6.66875
+daily,climate_summary,07427,2007-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.0188,9.9255,17.0,Padenstedt (Pony-Park),Schleswig-Holstein,7.24375
+daily,climate_summary,07428,2007-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.4167,10.8156,397.0,Veilsdorf,Thüringen,6.328125
+daily,climate_summary,07431,2007-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.013,11.5524,604.0,Oberhaching-Laufzorn,Bayern,6.115625
+daily,climate_summary,07432,2007-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.6423,10.6628,71.0,Wittingen-Vorhop,Niedersachsen,7.428125
+daily,climate_summary,13670,2007-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.5088,6.7018,24.0,Duisburg-Baerl,Nordrhein-Westfalen,9.640625
+daily,climate_summary,13674,2007-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,49.2943,8.9053,237.0,Waibstadt,Baden-Württemberg,8.746875
+daily,climate_summary,13675,2007-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.0818,9.4077,75.0,Hameln-Hastenbeck,Niedersachsen,8.03125
+daily,climate_summary,13696,2007-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.5966,7.4048,60.0,Waltrop-Abdinghof,Nordrhein-Westfalen,8.396875
+daily,climate_summary,13700,2008-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.3329,7.3412,203.0,Gevelsberg-Oberbröking,Nordrhein-Westfalen,8.4125
+daily,climate_summary,13711,2007-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.682,11.515,289.0,Krölpa-Rockendorf,Thüringen,6.66875
+daily,climate_summary,13713,2007-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.0899,7.6289,385.0,Meinerzhagen-Redlendorf,Nordrhein-Westfalen,7.26875
+daily,climate_summary,13777,2008-06-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.2467,10.9592,109.0,Helmstedt-Emmerstedt,Niedersachsen,6.92
+daily,climate_summary,13965,2008-12-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.2639,8.8134,619.0,Balingen-Bronnhaupten,Baden-Württemberg,6.6625
+daily,climate_summary,15000,2011-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,50.7983,6.0244,231.0,Aachen-Orsbach,Nordrhein-Westfalen,8.73125
+daily,climate_summary,15207,2013-11-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,51.2835,9.359,317.0,Schauenburg-Elgershausen,Hessen,7.34375
+daily,climate_summary,15444,2014-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.4418,9.9216,593.0,Ulm-Mähringen,Baden-Württemberg,6.328125
+daily,climate_summary,15555,2016-05-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.8761,10.5849,815.0,Kaufbeuren-Oberbeuren,Bayern,5.7
+daily,climate_summary,15813,2022-03-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,52.5126,7.4131,40.0,Lingen-Baccum,Niedersachsen,8.5375
+daily,climate_summary,19171,2020-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.0039,9.8555,13.0,Hasenkrug-Hardebek,Schleswig-Holstein,7.33125
+daily,climate_summary,19172,2020-09-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,54.0246,9.388,48.0,Wacken,Schleswig-Holstein,7.609375
+daily,climate_summary,19207,2023-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,53.8178,12.0645,16.0,Gülzow-Prüzen,Mecklenburg-Vorpommern,7.040625
+daily,climate_summary,19856,2024-08-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,47.6134,12.9819,625.0,Schönau am Königssee,Bayern,6.0375
+daily,climate_summary,20098,2025-04-01 00:00:00+00:00,2026-04-18 00:00:00+00:00,48.5651,8.2284,1019.0,Seebach (Nationalpark Schwarzwald),Baden-Württemberg,4.359375
